@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Snazzy Color Scheme/Snazzy.sublime-color-scheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"font_face": "Source Code Pro",
 	"font_size": 16,
 	"ignored_packages":
@@ -7,5 +7,6 @@
 		"Vintage"
 	],
 	"line_padding_bottom": 5,
-	"line_padding_top": 5
+	"line_padding_top": 5,
+	"theme": "ayu-mirage.sublime-theme"
 }

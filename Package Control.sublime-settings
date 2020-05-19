@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"ayu",
 		"Git",
 		"Package Control",
 		"Snazzy Color Scheme"
